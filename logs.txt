@@ -114,3 +114,7 @@
 [2026-04-06 13:04:11] Processing page 1: https://codelist.cc/v3/
 [2026-04-06 13:04:11] Finished or Error: Page 1 returned 403
 [2026-04-06 13:04:11] Finished run. Total items scraped: 0
+[2026-04-06 18:55:07] Started run. Resuming from Page 1
+[2026-04-06 18:55:07] Processing page 1: https://codelist.cc/v3/
+[2026-04-06 18:55:07] Finished or Error: Page 1 returned 403
+[2026-04-06 18:55:07] Finished run. Total items scraped: 0
