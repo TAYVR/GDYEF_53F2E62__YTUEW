@@ -765,3 +765,306 @@
 [2026-04-09 04:19:58] Saved chunk with 50 items to chunk_20260409_0419.json
 [2026-04-09 04:21:03] Processing page 258: https://codelist.cc/pges/258/
 [2026-04-09 04:21:04] Found 25 posts on page 258
+[2026-04-09 07:18:01] Started run. Resuming from Page 259
+[2026-04-09 07:18:01] Processing page 259: https://codelist.cc/pges/259/
+[2026-04-09 07:18:02] Found 25 posts on page 259
+[2026-04-09 07:19:11] Processing page 260: https://codelist.cc/pges/260/
+[2026-04-09 07:19:11] Found 25 posts on page 260
+[2026-04-09 07:20:24] Processing page 261: https://codelist.cc/pges/261/
+[2026-04-09 07:20:24] Found 25 posts on page 261
+[2026-04-09 07:21:22] Saved chunk with 50 items to chunk_20260409_0721.json
+[2026-04-09 07:21:29] Processing page 262: https://codelist.cc/pges/262/
+[2026-04-09 07:21:29] Found 25 posts on page 262
+[2026-04-09 07:22:35] Processing page 263: https://codelist.cc/pges/263/
+[2026-04-09 07:22:35] Found 25 posts on page 263
+[2026-04-09 07:23:43] Processing page 264: https://codelist.cc/pges/264/
+[2026-04-09 07:23:44] Found 25 posts on page 264
+[2026-04-09 07:24:36] Saved chunk with 50 items to chunk_20260409_0724.json
+[2026-04-09 07:24:50] Processing page 265: https://codelist.cc/pges/265/
+[2026-04-09 07:24:50] Found 25 posts on page 265
+[2026-04-09 07:26:00] Processing page 266: https://codelist.cc/pges/266/
+[2026-04-09 07:26:00] Found 25 posts on page 266
+[2026-04-09 07:27:14] Processing page 267: https://codelist.cc/pges/267/
+[2026-04-09 07:27:15] Found 25 posts on page 267
+[2026-04-09 07:28:01] Saved chunk with 50 items to chunk_20260409_0728.json
+[2026-04-09 07:28:19] Processing page 268: https://codelist.cc/pges/268/
+[2026-04-09 07:28:20] Found 25 posts on page 268
+[2026-04-09 07:29:23] Processing page 269: https://codelist.cc/pges/269/
+[2026-04-09 07:29:23] Found 25 posts on page 269
+[2026-04-09 07:30:32] Processing page 270: https://codelist.cc/pges/270/
+[2026-04-09 07:30:33] Found 25 posts on page 270
+[2026-04-09 07:31:21] Saved chunk with 50 items to chunk_20260409_0731.json
+[2026-04-09 07:31:37] Processing page 271: https://codelist.cc/pges/271/
+[2026-04-09 07:31:38] Found 25 posts on page 271
+[2026-04-09 07:32:52] Processing page 272: https://codelist.cc/pges/272/
+[2026-04-09 07:32:52] Found 25 posts on page 272
+[2026-04-09 07:34:00] Processing page 273: https://codelist.cc/pges/273/
+[2026-04-09 07:34:00] Found 25 posts on page 273
+[2026-04-09 07:34:45] Saved chunk with 50 items to chunk_20260409_0734.json
+[2026-04-09 07:35:06] Processing page 274: https://codelist.cc/pges/274/
+[2026-04-09 07:35:06] Found 25 posts on page 274
+[2026-04-09 07:36:24] Processing page 275: https://codelist.cc/pges/275/
+[2026-04-09 07:36:24] Found 25 posts on page 275
+[2026-04-09 07:37:31] Processing page 276: https://codelist.cc/pges/276/
+[2026-04-09 07:37:31] Found 25 posts on page 276
+[2026-04-09 07:38:18] Saved chunk with 50 items to chunk_20260409_0738.json
+[2026-04-09 07:38:45] Processing page 277: https://codelist.cc/pges/277/
+[2026-04-09 07:38:46] Found 25 posts on page 277
+[2026-04-09 07:40:01] Processing page 278: https://codelist.cc/pges/278/
+[2026-04-09 07:40:01] Found 25 posts on page 278
+[2026-04-09 07:41:05] Processing page 279: https://codelist.cc/pges/279/
+[2026-04-09 07:41:06] Found 25 posts on page 279
+[2026-04-09 07:41:43] Saved chunk with 50 items to chunk_20260409_0741.json
+[2026-04-09 07:42:19] Processing page 280: https://codelist.cc/pges/280/
+[2026-04-09 07:42:19] Found 25 posts on page 280
+[2026-04-09 07:43:29] Processing page 281: https://codelist.cc/pges/281/
+[2026-04-09 07:43:29] Found 25 posts on page 281
+[2026-04-09 07:44:42] Processing page 282: https://codelist.cc/pges/282/
+[2026-04-09 07:44:42] Found 25 posts on page 282
+[2026-04-09 07:45:17] Saved chunk with 50 items to chunk_20260409_0745.json
+[2026-04-09 07:45:53] Processing page 283: https://codelist.cc/pges/283/
+[2026-04-09 07:45:54] Found 25 posts on page 283
+[2026-04-09 07:47:04] Processing page 284: https://codelist.cc/pges/284/
+[2026-04-09 07:47:04] Found 25 posts on page 284
+[2026-04-09 07:48:13] Processing page 285: https://codelist.cc/pges/285/
+[2026-04-09 07:48:13] Found 25 posts on page 285
+[2026-04-09 07:48:42] Saved chunk with 50 items to chunk_20260409_0748.json
+[2026-04-09 07:49:21] Processing page 286: https://codelist.cc/pges/286/
+[2026-04-09 07:49:21] Found 25 posts on page 286
+[2026-04-09 07:50:36] Processing page 287: https://codelist.cc/pges/287/
+[2026-04-09 07:50:37] Found 25 posts on page 287
+[2026-04-09 07:51:43] Processing page 288: https://codelist.cc/pges/288/
+[2026-04-09 07:51:44] Found 25 posts on page 288
+[2026-04-09 07:52:08] Saved chunk with 50 items to chunk_20260409_0752.json
+[2026-04-09 07:52:48] Processing page 289: https://codelist.cc/pges/289/
+[2026-04-09 07:52:48] Found 25 posts on page 289
+[2026-04-09 07:53:53] Processing page 290: https://codelist.cc/pges/290/
+[2026-04-09 07:53:53] Found 25 posts on page 290
+[2026-04-09 07:54:59] Processing page 291: https://codelist.cc/pges/291/
+[2026-04-09 07:55:00] Found 25 posts on page 291
+[2026-04-09 07:55:25] Saved chunk with 50 items to chunk_20260409_0755.json
+[2026-04-09 07:56:12] Processing page 292: https://codelist.cc/pges/292/
+[2026-04-09 07:56:13] Found 25 posts on page 292
+[2026-04-09 07:57:30] Processing page 293: https://codelist.cc/pges/293/
+[2026-04-09 07:57:31] Found 25 posts on page 293
+[2026-04-09 07:58:38] Processing page 294: https://codelist.cc/pges/294/
+[2026-04-09 07:58:38] Found 25 posts on page 294
+[2026-04-09 07:58:58] Saved chunk with 50 items to chunk_20260409_0758.json
+[2026-04-09 07:59:48] Processing page 295: https://codelist.cc/pges/295/
+[2026-04-09 07:59:48] Found 25 posts on page 295
+[2026-04-09 08:00:56] Processing page 296: https://codelist.cc/pges/296/
+[2026-04-09 08:00:57] Found 25 posts on page 296
+[2026-04-09 08:02:05] Processing page 297: https://codelist.cc/pges/297/
+[2026-04-09 08:02:06] Found 25 posts on page 297
+[2026-04-09 08:02:24] Saved chunk with 50 items to chunk_20260409_0802.json
+[2026-04-09 08:03:16] Processing page 298: https://codelist.cc/pges/298/
+[2026-04-09 08:03:16] Found 25 posts on page 298
+[2026-04-09 08:04:27] Processing page 299: https://codelist.cc/pges/299/
+[2026-04-09 08:04:28] Found 25 posts on page 299
+[2026-04-09 08:05:37] Processing page 300: https://codelist.cc/pges/300/
+[2026-04-09 08:05:37] Found 25 posts on page 300
+[2026-04-09 08:05:47] Saved chunk with 50 items to chunk_20260409_0805.json
+[2026-04-09 08:06:44] Processing page 301: https://codelist.cc/pges/301/
+[2026-04-09 08:06:44] Found 25 posts on page 301
+[2026-04-09 08:07:48] Processing page 302: https://codelist.cc/pges/302/
+[2026-04-09 08:07:49] Found 25 posts on page 302
+[2026-04-09 08:08:56] Processing page 303: https://codelist.cc/pges/303/
+[2026-04-09 08:08:56] Found 25 posts on page 303
+[2026-04-09 08:09:06] Saved chunk with 50 items to chunk_20260409_0809.json
+[2026-04-09 08:10:04] Processing page 304: https://codelist.cc/pges/304/
+[2026-04-09 08:10:04] Found 25 posts on page 304
+[2026-04-09 08:11:12] Processing page 305: https://codelist.cc/pges/305/
+[2026-04-09 08:11:12] Found 25 posts on page 305
+[2026-04-09 08:12:15] Processing page 306: https://codelist.cc/pges/306/
+[2026-04-09 08:12:16] Found 25 posts on page 306
+[2026-04-09 08:12:20] Saved chunk with 50 items to chunk_20260409_0812.json
+[2026-04-09 08:13:27] Processing page 307: https://codelist.cc/pges/307/
+[2026-04-09 08:13:27] Found 25 posts on page 307
+[2026-04-09 08:14:30] Processing page 308: https://codelist.cc/pges/308/
+[2026-04-09 08:14:31] Found 25 posts on page 308
+[2026-04-09 08:15:36] Saved chunk with 50 items to chunk_20260409_0815.json
+[2026-04-09 08:15:42] Processing page 309: https://codelist.cc/pges/309/
+[2026-04-09 08:15:43] Found 25 posts on page 309
+[2026-04-09 08:16:48] Processing page 310: https://codelist.cc/pges/310/
+[2026-04-09 08:16:48] Found 25 posts on page 310
+[2026-04-09 08:17:59] Processing page 311: https://codelist.cc/pges/311/
+[2026-04-09 08:17:59] Found 25 posts on page 311
+[2026-04-09 08:18:55] Saved chunk with 50 items to chunk_20260409_0818.json
+[2026-04-09 08:19:06] Processing page 312: https://codelist.cc/pges/312/
+[2026-04-09 08:19:06] Found 25 posts on page 312
+[2026-04-09 08:20:17] Processing page 313: https://codelist.cc/pges/313/
+[2026-04-09 08:20:18] Found 25 posts on page 313
+[2026-04-09 08:21:27] Processing page 314: https://codelist.cc/pges/314/
+[2026-04-09 08:21:27] Found 25 posts on page 314
+[2026-04-09 08:22:25] Saved chunk with 50 items to chunk_20260409_0822.json
+[2026-04-09 08:22:35] Processing page 315: https://codelist.cc/pges/315/
+[2026-04-09 08:22:36] Found 25 posts on page 315
+[2026-04-09 08:23:52] Processing page 316: https://codelist.cc/pges/316/
+[2026-04-09 08:23:52] Found 25 posts on page 316
+[2026-04-09 08:24:54] Processing page 317: https://codelist.cc/pges/317/
+[2026-04-09 08:24:54] Found 25 posts on page 317
+[2026-04-09 08:25:49] Saved chunk with 50 items to chunk_20260409_0825.json
+[2026-04-09 08:26:07] Processing page 318: https://codelist.cc/pges/318/
+[2026-04-09 08:26:07] Found 25 posts on page 318
+[2026-04-09 08:27:18] Processing page 319: https://codelist.cc/pges/319/
+[2026-04-09 08:27:18] Found 25 posts on page 319
+[2026-04-09 08:28:27] Processing page 320: https://codelist.cc/pges/320/
+[2026-04-09 08:28:28] Found 25 posts on page 320
+[2026-04-09 08:29:16] Saved chunk with 50 items to chunk_20260409_0829.json
+[2026-04-09 08:29:37] Processing page 321: https://codelist.cc/pges/321/
+[2026-04-09 08:29:37] Found 25 posts on page 321
+[2026-04-09 08:30:44] Processing page 322: https://codelist.cc/pges/322/
+[2026-04-09 08:30:45] Found 25 posts on page 322
+[2026-04-09 08:31:52] Processing page 323: https://codelist.cc/pges/323/
+[2026-04-09 08:31:53] Found 25 posts on page 323
+[2026-04-09 08:32:36] Saved chunk with 50 items to chunk_20260409_0832.json
+[2026-04-09 08:33:01] Processing page 324: https://codelist.cc/pges/324/
+[2026-04-09 08:33:01] Found 25 posts on page 324
+[2026-04-09 08:34:09] Processing page 325: https://codelist.cc/pges/325/
+[2026-04-09 08:34:09] Found 25 posts on page 325
+[2026-04-09 08:35:15] Processing page 326: https://codelist.cc/pges/326/
+[2026-04-09 08:35:15] Found 25 posts on page 326
+[2026-04-09 08:36:02] Saved chunk with 50 items to chunk_20260409_0836.json
+[2026-04-09 08:36:29] Processing page 327: https://codelist.cc/pges/327/
+[2026-04-09 08:36:29] Found 25 posts on page 327
+[2026-04-09 08:37:36] Processing page 328: https://codelist.cc/pges/328/
+[2026-04-09 08:37:37] Found 25 posts on page 328
+[2026-04-09 08:38:47] Processing page 329: https://codelist.cc/pges/329/
+[2026-04-09 08:38:47] Found 25 posts on page 329
+[2026-04-09 08:39:25] Saved chunk with 50 items to chunk_20260409_0839.json
+[2026-04-09 08:39:58] Processing page 330: https://codelist.cc/pges/330/
+[2026-04-09 08:39:58] Found 25 posts on page 330
+[2026-04-09 08:41:11] Processing page 331: https://codelist.cc/pges/331/
+[2026-04-09 08:41:11] Found 25 posts on page 331
+[2026-04-09 08:42:22] Processing page 332: https://codelist.cc/pges/332/
+[2026-04-09 08:42:22] Found 25 posts on page 332
+[2026-04-09 08:42:57] Saved chunk with 50 items to chunk_20260409_0842.json
+[2026-04-09 08:43:35] Processing page 333: https://codelist.cc/pges/333/
+[2026-04-09 08:43:35] Found 25 posts on page 333
+[2026-04-09 08:44:47] Processing page 334: https://codelist.cc/pges/334/
+[2026-04-09 08:44:47] Found 25 posts on page 334
+[2026-04-09 08:45:59] Processing page 335: https://codelist.cc/pges/335/
+[2026-04-09 08:46:00] Found 25 posts on page 335
+[2026-04-09 08:46:07] Error downloading image https://codelist.cc/uploads/posts/2017-08/1502508924_elementorpro.png: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-04-09 08:46:27] Error scraping post https://codelist.cc/plugins3/256696-aiomatic-v235-automatic-ai-content-writer.html: HTTPSConnectionPool(host='codelist.cc', port=443): Read timed out. (read timeout=15)
+[2026-04-09 08:46:44] Error scraping post https://codelist.cc/plugins3/256697-frontend-admin-pro-v32515.html: HTTPSConnectionPool(host='codelist.cc', port=443): Read timed out. (read timeout=15)
+[2026-04-09 08:47:04] Error scraping post https://codelist.cc/plugins3/256680-youzify-formerly-youzer-v357-buddypress-community-amp-wordpress-user-profile-plugin.html: HTTPSConnectionPool(host='codelist.cc', port=443): Read timed out. (read timeout=15)
+[2026-04-09 08:47:23] Error scraping post https://codelist.cc/plugins3/256681-wp-all-import-pro-v499.html: HTTPSConnectionPool(host='codelist.cc', port=443): Read timed out. (read timeout=15)
+[2026-04-09 08:47:41] Error scraping post https://codelist.cc/plugins3/256682-stackable-v3140-reimagine-the-way-you-use-the-wordpress-block-editor.html: HTTPSConnectionPool(host='codelist.cc', port=443): Read timed out. (read timeout=15)
+[2026-04-09 08:47:59] Error scraping post https://codelist.cc/plugins3/256683-shopmagic-v4315-woocommerce-marketing-automation.html: HTTPSConnectionPool(host='codelist.cc', port=443): Read timed out. (read timeout=15)
+[2026-04-09 08:48:31] Saved chunk with 50 items to chunk_20260409_0848.json
+[2026-04-09 08:48:47] Processing page 336: https://codelist.cc/pges/336/
+[2026-04-09 08:48:47] Found 25 posts on page 336
+[2026-04-09 08:49:56] Processing page 337: https://codelist.cc/pges/337/
+[2026-04-09 08:49:57] Found 25 posts on page 337
+[2026-04-09 08:51:13] Processing page 338: https://codelist.cc/pges/338/
+[2026-04-09 08:51:14] Found 25 posts on page 338
+[2026-04-09 08:52:06] Saved chunk with 50 items to chunk_20260409_0852.json
+[2026-04-09 08:52:30] Processing page 339: https://codelist.cc/pges/339/
+[2026-04-09 08:52:31] Found 25 posts on page 339
+[2026-04-09 08:53:40] Processing page 340: https://codelist.cc/pges/340/
+[2026-04-09 08:53:40] Found 25 posts on page 340
+[2026-04-09 08:54:47] Processing page 341: https://codelist.cc/pges/341/
+[2026-04-09 08:54:47] Found 25 posts on page 341
+[2026-04-09 08:55:34] Saved chunk with 50 items to chunk_20260409_0855.json
+[2026-04-09 08:55:58] Processing page 342: https://codelist.cc/pges/342/
+[2026-04-09 08:55:58] Found 25 posts on page 342
+[2026-04-09 08:57:11] Processing page 343: https://codelist.cc/pges/343/
+[2026-04-09 08:57:12] Found 25 posts on page 343
+[2026-04-09 08:58:25] Processing page 344: https://codelist.cc/pges/344/
+[2026-04-09 08:58:25] Found 25 posts on page 344
+[2026-04-09 08:59:05] Saved chunk with 50 items to chunk_20260409_0859.json
+[2026-04-09 08:59:32] Processing page 345: https://codelist.cc/pges/345/
+[2026-04-09 08:59:32] Found 25 posts on page 345
+[2026-04-09 09:00:43] Processing page 346: https://codelist.cc/pges/346/
+[2026-04-09 09:00:44] Found 25 posts on page 346
+[2026-04-09 09:02:00] Processing page 347: https://codelist.cc/pges/347/
+[2026-04-09 09:02:00] Found 25 posts on page 347
+[2026-04-09 09:02:32] Saved chunk with 50 items to chunk_20260409_0902.json
+[2026-04-09 09:03:09] Processing page 348: https://codelist.cc/pges/348/
+[2026-04-09 09:03:10] Found 25 posts on page 348
+[2026-04-09 09:04:20] Processing page 349: https://codelist.cc/pges/349/
+[2026-04-09 09:04:21] Found 25 posts on page 349
+[2026-04-09 09:05:40] Processing page 350: https://codelist.cc/pges/350/
+[2026-04-09 09:05:40] Found 25 posts on page 350
+[2026-04-09 09:06:12] Saved chunk with 50 items to chunk_20260409_0906.json
+[2026-04-09 09:06:47] Processing page 351: https://codelist.cc/pges/351/
+[2026-04-09 09:06:48] Found 25 posts on page 351
+[2026-04-09 09:07:55] Processing page 352: https://codelist.cc/pges/352/
+[2026-04-09 09:07:56] Found 25 posts on page 352
+[2026-04-09 09:09:00] Processing page 353: https://codelist.cc/pges/353/
+[2026-04-09 09:09:00] Found 25 posts on page 353
+[2026-04-09 09:09:34] Saved chunk with 50 items to chunk_20260409_0909.json
+[2026-04-09 09:10:16] Processing page 354: https://codelist.cc/pges/354/
+[2026-04-09 09:10:16] Found 25 posts on page 354
+[2026-04-09 09:11:24] Processing page 355: https://codelist.cc/pges/355/
+[2026-04-09 09:11:25] Found 25 posts on page 355
+[2026-04-09 09:12:36] Processing page 356: https://codelist.cc/pges/356/
+[2026-04-09 09:12:37] Found 25 posts on page 356
+[2026-04-09 09:12:56] Saved chunk with 50 items to chunk_20260409_0912.json
+[2026-04-09 09:13:39] Processing page 357: https://codelist.cc/pges/357/
+[2026-04-09 09:13:39] Found 25 posts on page 357
+[2026-04-09 09:14:53] Processing page 358: https://codelist.cc/pges/358/
+[2026-04-09 09:14:53] Found 25 posts on page 358
+[2026-04-09 09:16:05] Processing page 359: https://codelist.cc/pges/359/
+[2026-04-09 09:16:05] Found 25 posts on page 359
+[2026-04-09 09:16:24] Saved chunk with 50 items to chunk_20260409_0916.json
+[2026-04-09 09:17:10] Processing page 360: https://codelist.cc/pges/360/
+[2026-04-09 09:17:10] Found 25 posts on page 360
+[2026-04-09 09:18:20] Processing page 361: https://codelist.cc/pges/361/
+[2026-04-09 09:18:20] Found 25 posts on page 361
+[2026-04-09 09:19:27] Processing page 362: https://codelist.cc/pges/362/
+[2026-04-09 09:19:27] Found 25 posts on page 362
+[2026-04-09 09:19:44] Saved chunk with 50 items to chunk_20260409_0919.json
+[2026-04-09 09:20:28] Processing page 363: https://codelist.cc/pges/363/
+[2026-04-09 09:20:29] Found 25 posts on page 363
+[2026-04-09 09:21:35] Processing page 364: https://codelist.cc/pges/364/
+[2026-04-09 09:21:35] Found 25 posts on page 364
+[2026-04-09 09:22:46] Processing page 365: https://codelist.cc/pges/365/
+[2026-04-09 09:22:47] Found 25 posts on page 365
+[2026-04-09 09:23:02] Saved chunk with 50 items to chunk_20260409_0923.json
+[2026-04-09 09:23:52] Processing page 366: https://codelist.cc/pges/366/
+[2026-04-09 09:23:52] Found 25 posts on page 366
+[2026-04-09 09:25:03] Processing page 367: https://codelist.cc/pges/367/
+[2026-04-09 09:25:04] Found 25 posts on page 367
+[2026-04-09 09:26:11] Processing page 368: https://codelist.cc/pges/368/
+[2026-04-09 09:26:11] Found 25 posts on page 368
+[2026-04-09 09:26:23] Saved chunk with 50 items to chunk_20260409_0926.json
+[2026-04-09 09:27:19] Processing page 369: https://codelist.cc/pges/369/
+[2026-04-09 09:27:20] Found 25 posts on page 369
+[2026-04-09 09:28:25] Processing page 370: https://codelist.cc/pges/370/
+[2026-04-09 09:28:25] Found 25 posts on page 370
+[2026-04-09 09:29:34] Processing page 371: https://codelist.cc/pges/371/
+[2026-04-09 09:29:34] Found 25 posts on page 371
+[2026-04-09 09:29:43] Saved chunk with 50 items to chunk_20260409_0929.json
+[2026-04-09 09:30:46] Processing page 372: https://codelist.cc/pges/372/
+[2026-04-09 09:30:46] Found 25 posts on page 372
+[2026-04-09 09:31:52] Processing page 373: https://codelist.cc/pges/373/
+[2026-04-09 09:31:52] Found 25 posts on page 373
+[2026-04-09 09:33:03] Processing page 374: https://codelist.cc/pges/374/
+[2026-04-09 09:33:04] Found 25 posts on page 374
+[2026-04-09 09:33:07] Saved chunk with 50 items to chunk_20260409_0933.json
+[2026-04-09 09:34:16] Processing page 375: https://codelist.cc/pges/375/
+[2026-04-09 09:34:16] Found 25 posts on page 375
+[2026-04-09 09:35:31] Processing page 376: https://codelist.cc/pges/376/
+[2026-04-09 09:35:31] Found 25 posts on page 376
+[2026-04-09 09:36:34] Saved chunk with 50 items to chunk_20260409_0936.json
+[2026-04-09 09:36:39] Processing page 377: https://codelist.cc/pges/377/
+[2026-04-09 09:36:39] Found 25 posts on page 377
+[2026-04-09 09:37:53] Processing page 378: https://codelist.cc/pges/378/
+[2026-04-09 09:37:53] Found 25 posts on page 378
+[2026-04-09 09:39:02] Processing page 379: https://codelist.cc/pges/379/
+[2026-04-09 09:39:02] Found 25 posts on page 379
+[2026-04-09 09:39:06] Error scraping post https://codelist.cc/plugins3/256140-notificationx-v301-best-wordpress-marketing-plugin.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-04-09 09:40:05] Saved chunk with 50 items to chunk_20260409_0940.json
+[2026-04-09 09:40:12] Processing page 380: https://codelist.cc/pges/380/
+[2026-04-09 09:40:13] Found 25 posts on page 380
+[2026-04-09 09:41:17] Processing page 381: https://codelist.cc/pges/381/
+[2026-04-09 09:41:18] Found 25 posts on page 381
+[2026-04-09 09:42:24] Processing page 382: https://codelist.cc/pges/382/
+[2026-04-09 09:42:24] Found 25 posts on page 382
+[2026-04-09 09:43:24] Saved chunk with 50 items to chunk_20260409_0943.json
+[2026-04-09 09:43:32] Processing page 383: https://codelist.cc/pges/383/
+[2026-04-09 09:43:32] Fatal error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-04-09 09:43:32] Saved chunk with 1 items to chunk_20260409_0943.json
+[2026-04-09 09:43:32] Finished run. Total items scraped: 6451
