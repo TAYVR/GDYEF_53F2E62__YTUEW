@@ -5721,3 +5721,7 @@
 [2026-04-12 07:12:41] No more posts found. Exiting.
 [2026-04-12 07:12:41] Saved chunk with 29 items to chunk_20260412_0712.json
 [2026-04-12 07:12:41] Finished run. Total items scraped: 39799
+[2026-04-12 12:56:27] Started run. Resuming from Page 2353
+[2026-04-12 12:56:27] Processing page 2353: https://codelist.cc/pges/2353/
+[2026-04-12 12:56:28] No more posts found. Exiting.
+[2026-04-12 12:56:28] Finished run. Total items scraped: 39799
