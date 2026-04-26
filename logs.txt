@@ -5961,3 +5961,12 @@
 [2026-04-26 02:32:21] No more posts found. Exiting.
 [2026-04-26 02:32:21] Saved chunk with 27 items to chunk_20260426_0232.json
 [2026-04-26 02:32:21] Finished run. Total items scraped: 39870
+[2026-04-26 07:25:21] Started run. Resuming from Page 2360
+[2026-04-26 07:25:21] Processing page 2360: https://codelist.cc/pges/2360/
+[2026-04-26 07:25:22] Found 25 posts on page 2360
+[2026-04-26 07:26:30] Processing page 2361: https://codelist.cc/pges/2361/
+[2026-04-26 07:26:30] Found 14 posts on page 2361
+[2026-04-26 07:26:56] Processing page 2362: https://codelist.cc/pges/2362/
+[2026-04-26 07:26:56] No more posts found. Exiting.
+[2026-04-26 07:26:56] Saved chunk with 23 items to chunk_20260426_0726.json
+[2026-04-26 07:26:56] Finished run. Total items scraped: 39893
