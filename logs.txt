@@ -6099,3 +6099,20 @@
 [2026-05-03 02:40:22] No more posts found. Exiting.
 [2026-05-03 02:40:22] Saved chunk with 13 items to chunk_20260503_0240.json
 [2026-05-03 02:40:22] Finished run. Total items scraped: 39913
+[2026-05-03 07:58:10] Started run. Resuming from Page 2364
+[2026-05-03 07:58:10] Processing page 2364: https://codelist.cc/pges/2364/
+[2026-05-03 07:58:11] Found 21 posts on page 2364
+[2026-05-03 07:58:15] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:18] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:23] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:26] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:33] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:39] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:42] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:46] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:50] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:58:58] Skipping image (too large: 174KB): https://codelist.cc/uploads/posts/2026-01/1768729993_mighty-school-pro-school-management-system-erp-multi-branch-saas.png
+[2026-05-03 07:59:08] Processing page 2365: https://codelist.cc/pges/2365/
+[2026-05-03 07:59:09] No more posts found. Exiting.
+[2026-05-03 07:59:09] Saved chunk with 13 items to chunk_20260503_0759.json
+[2026-05-03 07:59:09] Finished run. Total items scraped: 39926
