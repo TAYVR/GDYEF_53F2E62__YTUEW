@@ -6222,3 +6222,12 @@
 [2026-05-09 18:56:53] Processing page 2367: https://codelist.cc/pges/2367/
 [2026-05-09 18:56:54] No more posts found. Exiting.
 [2026-05-09 18:56:54] Finished run. Total items scraped: 39939
+[2026-05-10 02:41:46] Started run. Resuming from Page 2367
+[2026-05-10 02:41:46] Processing page 2367: https://codelist.cc/pges/2367/
+[2026-05-10 02:41:47] Found 25 posts on page 2367
+[2026-05-10 02:42:55] Processing page 2368: https://codelist.cc/pges/2368/
+[2026-05-10 02:42:55] Found 15 posts on page 2368
+[2026-05-10 02:43:26] Processing page 2369: https://codelist.cc/pges/2369/
+[2026-05-10 02:43:27] No more posts found. Exiting.
+[2026-05-10 02:43:27] Saved chunk with 24 items to chunk_20260510_0243.json
+[2026-05-10 02:43:27] Finished run. Total items scraped: 39963
