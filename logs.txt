@@ -6439,3 +6439,7 @@
 [2026-05-22 02:59:03] Processing page 2374: https://codelist.cc/pges/2374/
 [2026-05-22 02:59:03] No more posts found. Exiting.
 [2026-05-22 02:59:03] Finished run. Total items scraped: 40013
+[2026-05-22 08:57:13] Started run. Resuming from Page 2374
+[2026-05-22 08:57:13] Processing page 2374: https://codelist.cc/pges/2374/
+[2026-05-22 08:57:14] No more posts found. Exiting.
+[2026-05-22 08:57:14] Finished run. Total items scraped: 40013
