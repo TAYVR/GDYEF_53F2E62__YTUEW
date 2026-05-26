@@ -6521,3 +6521,7 @@
 [2026-05-26 15:18:39] Processing page 2378: https://codelist.cc/pges/2378/
 [2026-05-26 15:18:39] No more posts found. Exiting.
 [2026-05-26 15:18:39] Finished run. Total items scraped: 40061
+[2026-05-26 20:05:56] Started run. Resuming from Page 2378
+[2026-05-26 20:05:56] Processing page 2378: https://codelist.cc/pges/2378/
+[2026-05-26 20:05:57] No more posts found. Exiting.
+[2026-05-26 20:05:57] Finished run. Total items scraped: 40061
