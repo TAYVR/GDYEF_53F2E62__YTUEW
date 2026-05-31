@@ -6605,3 +6605,7 @@
 [2026-05-31 08:41:27] Processing page 2381: https://codelist.cc/pges/2381/
 [2026-05-31 08:41:27] No more posts found. Exiting.
 [2026-05-31 08:41:27] Finished run. Total items scraped: 40097
+[2026-05-31 13:39:44] Started run. Resuming from Page 2381
+[2026-05-31 13:39:44] Processing page 2381: https://codelist.cc/pges/2381/
+[2026-05-31 13:39:45] No more posts found. Exiting.
+[2026-05-31 13:39:45] Finished run. Total items scraped: 40097
